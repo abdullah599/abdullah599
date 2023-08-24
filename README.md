@@ -93,7 +93,7 @@
 ###
 
 <br clear="both">
+![](https://komarev.com/ghpvc/?username=abdullah599)
 
-<img src="https://raw.githubusercontent.com/abdullah599/abdullah599/output/snake.svg" alt="Snake animation" />
 
 ###
