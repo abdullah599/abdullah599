@@ -93,7 +93,6 @@
 ###
 
 <br clear="both">
-![](https://komarev.com/ghpvc/?username=abdullah599)
 
 
 ###
