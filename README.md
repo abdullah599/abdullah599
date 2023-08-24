@@ -72,7 +72,7 @@
 
 ###
 
-<p align="left">- 👋 Hi, I’m @abdullah599<br>- 👀 I’m interested in App development<br>- 🌱 I’m currently learning app development with Android studio using Kotlin<br>- Learning Machine Learning and Computer Vision</p>
+<p align="left">- 👋 Hi, I’m @abdullah599<br>- 👀 I’m interested in App development<br>- 🌱 I’m currently Learning Machine Learning and Computer Vision</p>
 
 ###
 
