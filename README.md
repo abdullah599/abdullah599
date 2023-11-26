@@ -69,7 +69,7 @@
 
 ###
 
-<p align="left">- 👋 Hi, I’m @abdullah599<br>- 👀 I’m interested in App development<br>- 🌱 I’m currently Learning Machine Learning and Computer Vision</p>
+<p align="left">- 👋 Hi, I’m @abdullah599<br>- 👀 I’m interested in Software development<br>- 🌱 I’m currently Learning Machine Learning and Computer Vision</p>
 
 ###
 
